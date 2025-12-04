@@ -1,0 +1,115 @@
+Country,Category,Category_Type,Education,Salary,Population,Real Salary
+Japan,All Employees,Total,Junior High,1522.0689655172414,400.0,2367.7716983156315
+Japan,Male,Gender,Junior High,1586.896551724138,200.0,2468.6192468619247
+Japan,Female,Gender,Junior High,1455.1724137931035,190.0,2263.705610985946
+Japan,Mining & Quarrying,Industry,Junior High,,,
+Japan,Manufacturing,Industry,Junior High,1452.4137931034481,160.0,2259.4142259414225
+Japan,Electricity & Gas Supply,Industry,Junior High,,,
+Japan,Construction,Industry,Junior High,,,
+Japan,Wholesale & Retail Trade,Industry,Junior High,1646.896551724138,140.0,2561.9568715803025
+Japan,Transportation & Storage,Industry,Junior High,,,
+Japan,Accommodation & Food Service,Industry,Junior High,1295.8620689655172,10.0,2015.8781246647357
+Japan,"Publishing, Audio-Visual & Information Communication",Industry,Junior High,,,
+Japan,Finance & Insurance,Industry,Junior High,1749.655172413793,10.0,2721.810964488789
+Japan,Real Estate,Industry,Junior High,1491.0344827586207,30.0,2319.4936165647464
+Japan,"Professional, Scientific & Technical Services",Industry,Junior High,,,
+Japan,Education,Industry,Junior High,,,
+Japan,Health Care & Social Work,Industry,Junior High,,,
+Japan,"Arts, Entertainment & Recreation",Industry,Junior High,1602.0689655172414,20.0,2492.2218646068022
+Japan,Other Services,Industry,Junior High,,,
+Japan,Combined Services,Industry,Junior High,1195.8620689655172,20.0,1860.3154168007725
+Japan,All Employees,Total,Senior High,1362.0689655172414,107730.0,2118.8713657332905
+Japan,Male,Gender,Senior High,1382.7586206896551,70850.0,2151.056753567214
+Japan,Female,Gender,Senior High,1322.0689655172414,36880.0,2056.646282587705
+Japan,Mining & Quarrying,Industry,Senior High,1402.0689655172414,50.0,2181.096448878876
+Japan,Manufacturing,Industry,Senior High,1354.4827586206895,49650.0,2107.0700568608518
+Japan,Electricity & Gas Supply,Industry,Senior High,1306.2068965517242,410.0,2031.9708185816974
+Japan,Construction,Industry,Senior High,1411.0344827586207,12190.0,2195.043450273576
+Japan,Wholesale & Retail Trade,Industry,Senior High,1333.7931034482758,11570.0,2074.884669026929
+Japan,Transportation & Storage,Industry,Senior High,1412.4137931034484,6160.0,2197.1891427958376
+Japan,Accommodation & Food Service,Industry,Senior High,1364.1379310344828,6470.0,2122.089904516683
+Japan,"Publishing, Audio-Visual & Information Communication",Industry,Senior High,1356.551724137931,560.0,2110.288595644244
+Japan,Finance & Insurance,Industry,Senior High,1268.9655172413793,880.0,1974.0371204806352
+Japan,Real Estate,Industry,Senior High,1364.8275862068965,560.0,2123.1627507778135
+Japan,"Professional, Scientific & Technical Services",Industry,Senior High,1335.1724137931035,4130.0,2077.0303615491903
+Japan,Education,Industry,Senior High,1317.9310344827586,830.0,2050.2092050209208
+Japan,Health Care & Social Work,Industry,Senior High,1357.9310344827586,6270.0,2112.4342881665057
+Japan,"Arts, Entertainment & Recreation",Industry,Senior High,1357.9310344827586,1860.0,2112.4342881665057
+Japan,Other Services,Industry,Senior High,1377.9310344827586,5320.0,2143.5468297392986
+Japan,Combined Services,Industry,Senior High,1332.4137931034484,810.0,2072.738976504667
+Japan,All Employees,Total,Junior College,1544.1379310344828,34320.0,2402.1027786718164
+Japan,All Employees,Total,Junior College,1536.551724137931,80940.0,2390.3014697993776
+Japan,Male,Gender,Junior College,1593.103448275862,9710.0,2478.274863212102
+Japan,Male,Gender,Junior College,1512.4137931034481,29830.0,2352.7518506598003
+Japan,Female,Gender,Junior College,1524.8275862068965,24610.0,2372.0630833601545
+Japan,Female,Gender,Junior College,1550.344827586207,51110.0,2411.7583950219937
+Japan,Mining & Quarrying,Industry,Junior College,1831.7241379310344,10.0,2849.4796695633518
+Japan,Mining & Quarrying,Industry,Junior College,,,
+Japan,Manufacturing,Industry,Junior College,1512.4137931034481,3960.0,2352.7518506598003
+Japan,Manufacturing,Industry,Junior College,1383.4482758620688,4360.0,2152.1295998283445
+Japan,Electricity & Gas Supply,Industry,Junior College,1486.896551724138,190.0,2313.0565389979615
+Japan,Electricity & Gas Supply,Industry,Junior College,1469.655172413793,30.0,2286.2353824696925
+Japan,Construction,Industry,Junior College,1644.1379310344828,760.0,2557.6654865357796
+Japan,Construction,Industry,Junior College,1483.4482758620688,1430.0,2307.6923076923076
+Japan,Wholesale & Retail Trade,Industry,Junior College,1527.5862068965516,4330.0,2376.354468404678
+Japan,Wholesale & Retail Trade,Industry,Junior College,1447.5862068965516,8750.0,2251.904302113507
+Japan,Transportation & Storage,Industry,Junior College,1330.344827586207,550.0,2069.520437721275
+Japan,Transportation & Storage,Industry,Junior College,1567.5862068965516,1410.0,2438.579551550263
+Japan,Accommodation & Food Service,Industry,Junior College,1521.3793103448277,1700.0,2366.6988520545005
+Japan,Accommodation & Food Service,Industry,Junior College,1503.4482758620688,7050.0,2338.8048492651
+Japan,"Publishing, Audio-Visual & Information Communication",Industry,Junior College,1597.9310344827586,1620.0,2485.7847870400174
+Japan,"Publishing, Audio-Visual & Information Communication",Industry,Junior College,1493.103448275862,6600.0,2322.712155348139
+Japan,Finance & Insurance,Industry,Junior College,1540.6896551724137,670.0,2396.7385473661625
+Japan,Finance & Insurance,Industry,Junior College,1421.3793103448277,110.0,2211.136144190538
+Japan,Real Estate,Industry,Junior College,1472.4137931034481,310.0,2290.526767514215
+Japan,Real Estate,Industry,Junior College,1574.4827586206895,750.0,2449.3080141615706
+Japan,"Professional, Scientific & Technical Services",Industry,Junior College,1468.2758620689656,1180.0,2284.0896899474305
+Japan,"Professional, Scientific & Technical Services",Industry,Junior College,1560.0,2690.0,2426.7782426778244
+Japan,Education,Industry,Junior College,1485.5172413793102,4490.0,2310.9108464757
+Japan,Education,Industry,Junior College,1617.9310344827586,2830.0,2516.89732861281
+Japan,Health Care & Social Work,Industry,Junior College,1599.3103448275863,11600.0,2487.930479562279
+Japan,Health Care & Social Work,Industry,Junior College,1621.3793103448277,34240.0,2522.2615599184637
+Japan,"Arts, Entertainment & Recreation",Industry,Junior College,1510.344827586207,410.0,2349.5333118764083
+Japan,"Arts, Entertainment & Recreation",Industry,Junior College,1431.7241379310344,5630.0,2227.2288381074995
+Japan,Other Services,Industry,Junior College,1533.7931034482758,2370.0,2386.0100847548547
+Japan,Other Services,Industry,Junior College,1416.551724137931,5010.0,2203.626220362622
+Japan,Combined Services,Industry,Junior College,1343.4482758620688,170.0,2089.904516682759
+Japan,Combined Services,Industry,Junior College,1332.4137931034484,60.0,2072.738976504667
+Japan,All Employees,Total,University,1712.4137931034481,292210.0,2663.8772663877266
+Japan,Male,Gender,University,1733.103448275862,154010.0,2696.06265422165
+Japan,Female,Gender,University,1688.9655172413793,138200.0,2627.4004935092803
+Japan,Mining & Quarrying,Industry,University,2226.8965517241377,40.0,3464.220577191288
+Japan,Manufacturing,Industry,University,1694.4827586206895,27510.0,2635.983263598326
+Japan,Electricity & Gas Supply,Industry,University,1660.0,890.0,2582.3409505417876
+Japan,Construction,Industry,University,1683.4482758620688,16300.0,2618.817723420234
+Japan,Wholesale & Retail Trade,Industry,University,1708.2758620689656,57350.0,2657.4401888209422
+Japan,Transportation & Storage,Industry,University,1613.7931034482758,9590.0,2510.4602510460254
+Japan,Accommodation & Food Service,Industry,University,1637.2413793103449,8730.0,2546.9370239244718
+Japan,"Publishing, Audio-Visual & Information Communication",Industry,University,1699.3103448275863,37490.0,2643.493187426242
+Japan,Finance & Insurance,Industry,University,1700.6896551724137,20740.0,2645.6388799485035
+Japan,Real Estate,Industry,University,1800.689655172414,11060.0,2801.201587812467
+Japan,"Professional, Scientific & Technical Services",Industry,University,1787.5862068965516,17340.0,2780.817508850982
+Japan,Education,Industry,University,1635.8620689655172,12090.0,2544.7913314022103
+Japan,Health Care & Social Work,Industry,University,1804.8275862068965,51920.0,2807.6386653792515
+Japan,"Arts, Entertainment & Recreation",Industry,University,1641.3793103448277,4670.0,2553.3741014912566
+Japan,Other Services,Industry,University,1577.9310344827586,14760.0,2454.672245467225
+Japan,Combined Services,Industry,University,1513.103448275862,1720.0,2353.8246969209313
+Japan,All Employees,Total,Graduate School,1982.0689655172414,31170.0,3083.360154489862
+Japan,Male,Gender,Graduate School,2001.3793103448274,23970.0,3113.3998498015235
+Japan,Female,Gender,Graduate School,1917.9310344827586,7200.0,2983.5854522046993
+Japan,Mining & Quarrying,Industry,Graduate School,2297.2413793103447,40.0,3573.650895826628
+Japan,Manufacturing,Industry,Graduate School,1967.5862068965516,13010.0,3060.8303830061154
+Japan,Electricity & Gas Supply,Industry,Graduate School,1833.103448275862,430.0,2851.6253620856132
+Japan,Construction,Industry,Graduate School,2048.2758620689656,1080.0,3186.3533955584167
+Japan,Wholesale & Retail Trade,Industry,Graduate School,1982.7586206896551,1760.0,3084.4330007509925
+Japan,Transportation & Storage,Industry,Graduate School,1815.8620689655172,350.0,2824.8042055573437
+Japan,Accommodation & Food Service,Industry,Graduate School,1728.9655172413793,140.0,2689.6255766548657
+Japan,"Publishing, Audio-Visual & Information Communication",Industry,Graduate School,2124.137931034483,3830.0,3304.3664842828025
+Japan,Finance & Insurance,Industry,Graduate School,2289.655172413793,780.0,3561.84958695419
+Japan,Real Estate,Industry,Graduate School,2176.551724137931,770.0,3385.902800128742
+Japan,"Professional, Scientific & Technical Services",Industry,Graduate School,1929.655172413793,6140.0,3001.8238386439225
+Japan,Education,Industry,Graduate School,2184.137931034483,1040.0,3397.7041090011803
+Japan,Health Care & Social Work,Industry,Graduate School,1644.1379310344828,500.0,2557.6654865357796
+Japan,"Arts, Entertainment & Recreation",Industry,Graduate School,1700.6896551724137,220.0,2645.6388799485035
+Japan,Other Services,Industry,Graduate School,1664.8275862068965,1030.0,2589.850874369703
+Japan,Combined Services,Industry,Graduate School,2033.103448275862,40.0,3162.7507778135396
