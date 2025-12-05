@@ -1,0 +1,235 @@
+Category,Category_Type,Education,Salary,Real Salary,Country,Population
+All Employees,Total,Junior High,875.0,2049.780380673499,Taiwan,
+Male,Gender,Junior High,875.0,2049.780380673499,Taiwan,
+Female,Gender,Junior High,906.25,2122.98682284041,Taiwan,
+Small & Medium Enterprises,Enterprise Size,Junior High,875.0,2049.780380673499,Taiwan,
+Large Enterprises & Others,Enterprise Size,Junior High,937.5,2196.1932650073204,Taiwan,
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Junior High,,,Taiwan,
+Mining & Quarrying,Industry,Junior High,,,Taiwan,
+Manufacturing,Industry,Junior High,875.0,2049.780380673499,Taiwan,
+Electricity & Gas Supply,Industry,Junior High,,,Taiwan,
+Water Supply & Waste Management,Industry,Junior High,,,Taiwan,
+Construction,Industry,Junior High,875.0,2049.780380673499,Taiwan,
+Wholesale & Retail Trade,Industry,Junior High,875.0,2049.780380673499,Taiwan,
+Transportation & Storage,Industry,Junior High,,,Taiwan,
+Accommodation & Food Service,Industry,Junior High,906.25,2122.98682284041,Taiwan,
+"Publishing, Audio-Visual & Information Communication",Industry,Junior High,,,Taiwan,
+Finance & Insurance,Industry,Junior High,,,Taiwan,
+Real Estate,Industry,Junior High,,,Taiwan,
+"Professional, Scientific & Technical Services",Industry,Junior High,,,Taiwan,
+Administrative & Support Services,Industry,Junior High,875.0,2049.780380673499,Taiwan,
+Public Administration & Defense; Compulsory Social Security,Industry,Junior High,,,Taiwan,
+Education,Industry,Junior High,,,Taiwan,
+Health Care & Social Work,Industry,Junior High,,,Taiwan,
+"Arts, Entertainment & Recreation",Industry,Junior High,,,Taiwan,
+Other Services,Industry,Junior High,875.0,2049.780380673499,Taiwan,
+All Employees,Total,Senior High,906.25,2122.98682284041,Taiwan,
+Male,Gender,Senior High,937.5,2196.1932650073204,Taiwan,
+Female,Gender,Senior High,906.25,2122.98682284041,Taiwan,
+Small & Medium Enterprises,Enterprise Size,Senior High,906.25,2122.98682284041,Taiwan,
+Large Enterprises & Others,Enterprise Size,Senior High,968.75,2269.3997071742315,Taiwan,
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Senior High,875.0,2049.780380673499,Taiwan,
+Mining & Quarrying,Industry,Senior High,,,Taiwan,
+Manufacturing,Industry,Senior High,906.25,2122.98682284041,Taiwan,
+Electricity & Gas Supply,Industry,Senior High,968.75,2269.3997071742315,Taiwan,
+Water Supply & Waste Management,Industry,Senior High,937.5,2196.1932650073204,Taiwan,
+Construction,Industry,Senior High,906.25,2122.98682284041,Taiwan,
+Wholesale & Retail Trade,Industry,Senior High,906.25,2122.98682284041,Taiwan,
+Transportation & Storage,Industry,Senior High,1062.5,2489.019033674964,Taiwan,
+Accommodation & Food Service,Industry,Senior High,937.5,2196.1932650073204,Taiwan,
+"Publishing, Audio-Visual & Information Communication",Industry,Senior High,937.5,2196.1932650073204,Taiwan,
+Finance & Insurance,Industry,Senior High,937.5,2196.1932650073204,Taiwan,
+Real Estate,Industry,Senior High,906.25,2122.98682284041,Taiwan,
+"Professional, Scientific & Technical Services",Industry,Senior High,906.25,2122.98682284041,Taiwan,
+Administrative & Support Services,Industry,Senior High,937.5,2196.1932650073204,Taiwan,
+Public Administration & Defense; Compulsory Social Security,Industry,Senior High,937.5,2196.1932650073204,Taiwan,
+Education,Industry,Senior High,906.25,2122.98682284041,Taiwan,
+Health Care & Social Work,Industry,Senior High,906.25,2122.98682284041,Taiwan,
+"Arts, Entertainment & Recreation",Industry,Senior High,906.25,2122.98682284041,Taiwan,
+Other Services,Industry,Senior High,875.0,2049.780380673499,Taiwan,
+All Employees,Total,Junior College,1000.0,2342.606149341142,Taiwan,
+Male,Gender,Junior College,1000.0,2342.606149341142,Taiwan,
+Female,Gender,Junior College,1000.0,2342.606149341142,Taiwan,
+Small & Medium Enterprises,Enterprise Size,Junior College,937.5,2196.1932650073204,Taiwan,
+Large Enterprises & Others,Enterprise Size,Junior College,1093.75,2562.225475841874,Taiwan,
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Junior College,,,Taiwan,
+Mining & Quarrying,Industry,Junior College,,,Taiwan,
+Manufacturing,Industry,Junior College,968.75,2269.3997071742315,Taiwan,
+Electricity & Gas Supply,Industry,Junior College,,,Taiwan,
+Water Supply & Waste Management,Industry,Junior College,,,Taiwan,
+Construction,Industry,Junior College,937.5,2196.1932650073204,Taiwan,
+Wholesale & Retail Trade,Industry,Junior College,968.75,2269.3997071742315,Taiwan,
+Transportation & Storage,Industry,Junior College,1187.5,2781.8448023426063,Taiwan,
+Accommodation & Food Service,Industry,Junior College,968.75,2269.3997071742315,Taiwan,
+"Publishing, Audio-Visual & Information Communication",Industry,Junior College,1031.25,2415.8125915080527,Taiwan,
+Finance & Insurance,Industry,Junior College,1062.5,2489.019033674964,Taiwan,
+Real Estate,Industry,Junior College,968.75,2269.3997071742315,Taiwan,
+"Professional, Scientific & Technical Services",Industry,Junior College,968.75,2269.3997071742315,Taiwan,
+Administrative & Support Services,Industry,Junior College,937.5,2196.1932650073204,Taiwan,
+Public Administration & Defense; Compulsory Social Security,Industry,Junior College,1000.0,2342.606149341142,Taiwan,
+Education,Industry,Junior College,968.75,2269.3997071742315,Taiwan,
+Health Care & Social Work,Industry,Junior College,1062.5,2489.019033674964,Taiwan,
+"Arts, Entertainment & Recreation",Industry,Junior College,937.5,2196.1932650073204,Taiwan,
+Other Services,Industry,Junior College,937.5,2196.1932650073204,Taiwan,
+All Employees,Total,University,1062.5,2489.019033674964,Taiwan,
+Male,Gender,University,1062.5,2489.019033674964,Taiwan,
+Female,Gender,University,1062.5,2489.019033674964,Taiwan,
+Small & Medium Enterprises,Enterprise Size,University,968.75,2269.3997071742315,Taiwan,
+Large Enterprises & Others,Enterprise Size,University,1187.5,2781.8448023426063,Taiwan,
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,University,968.75,2269.3997071742315,Taiwan,
+Mining & Quarrying,Industry,University,1031.25,2415.8125915080527,Taiwan,
+Manufacturing,Industry,University,1062.5,2489.019033674964,Taiwan,
+Electricity & Gas Supply,Industry,University,1343.75,3147.87701317716,Taiwan,
+Water Supply & Waste Management,Industry,University,1000.0,2342.606149341142,Taiwan,
+Construction,Industry,University,1000.0,2342.606149341142,Taiwan,
+Wholesale & Retail Trade,Industry,University,968.75,2269.3997071742315,Taiwan,
+Transportation & Storage,Industry,University,1125.0,2635.4319180087846,Taiwan,
+Accommodation & Food Service,Industry,University,1000.0,2342.606149341142,Taiwan,
+"Publishing, Audio-Visual & Information Communication",Industry,University,1093.75,2562.225475841874,Taiwan,
+Finance & Insurance,Industry,University,1187.5,2781.8448023426063,Taiwan,
+Real Estate,Industry,University,1000.0,2342.606149341142,Taiwan,
+"Professional, Scientific & Technical Services",Industry,University,1031.25,2415.8125915080527,Taiwan,
+Administrative & Support Services,Industry,University,1000.0,2342.606149341142,Taiwan,
+Public Administration & Defense; Compulsory Social Security,Industry,University,1281.25,3001.464128843338,Taiwan,
+Education,Industry,University,1093.75,2562.225475841874,Taiwan,
+Health Care & Social Work,Industry,University,1250.0,2928.2576866764275,Taiwan,
+"Arts, Entertainment & Recreation",Industry,University,968.75,2269.3997071742315,Taiwan,
+Other Services,Industry,University,968.75,2269.3997071742315,Taiwan,
+All Employees,Total,Graduate School,1625.0,3806.734992679356,Taiwan,
+Male,Gender,Graduate School,1687.5,3953.147877013177,Taiwan,
+Female,Gender,Graduate School,1500.0,3513.909224011713,Taiwan,
+Small & Medium Enterprises,Enterprise Size,Graduate School,1312.5,3074.6705710102488,Taiwan,
+Large Enterprises & Others,Enterprise Size,Graduate School,1718.75,4026.354319180088,Taiwan,
+"Agriculture, Forestry, Fishing & Animal Husbandry",Industry,Graduate School,1031.25,2415.8125915080527,Taiwan,
+Mining & Quarrying,Industry,Graduate School,,,Taiwan,
+Manufacturing,Industry,Graduate School,1812.5,4245.97364568082,Taiwan,
+Electricity & Gas Supply,Industry,Graduate School,1343.75,3147.87701317716,Taiwan,
+Water Supply & Waste Management,Industry,Graduate School,1187.5,2781.8448023426063,Taiwan,
+Construction,Industry,Graduate School,1187.5,2781.8448023426063,Taiwan,
+Wholesale & Retail Trade,Industry,Graduate School,1406.25,3294.289897510981,Taiwan,
+Transportation & Storage,Industry,Graduate School,1250.0,2928.2576866764275,Taiwan,
+Accommodation & Food Service,Industry,Graduate School,1062.5,2489.019033674964,Taiwan,
+"Publishing, Audio-Visual & Information Communication",Industry,Graduate School,1843.75,4319.180087847731,Taiwan,
+Finance & Insurance,Industry,Graduate School,1500.0,3513.909224011713,Taiwan,
+Real Estate,Industry,Graduate School,1125.0,2635.4319180087846,Taiwan,
+"Professional, Scientific & Technical Services",Industry,Graduate School,1468.75,3440.7027818448023,Taiwan,
+Administrative & Support Services,Industry,Graduate School,1250.0,2928.2576866764275,Taiwan,
+Public Administration & Defense; Compulsory Social Security,Industry,Graduate School,1406.25,3294.289897510981,Taiwan,
+Education,Industry,Graduate School,1468.75,3440.7027818448023,Taiwan,
+Health Care & Social Work,Industry,Graduate School,1312.5,3074.6705710102488,Taiwan,
+"Arts, Entertainment & Recreation",Industry,Graduate School,1062.5,2489.019033674964,Taiwan,
+Other Services,Industry,Graduate School,1187.5,2781.8448023426063,Taiwan,
+All Employees,Total,Junior High,1522.0689655172414,2367.7716983156315,Japan,400.0
+Male,Gender,Junior High,1586.896551724138,2468.6192468619247,Japan,200.0
+Female,Gender,Junior High,1455.1724137931035,2263.705610985946,Japan,190.0
+Mining & Quarrying,Industry,Junior High,,,Japan,
+Manufacturing,Industry,Junior High,1452.413793103448,2259.4142259414225,Japan,160.0
+Electricity & Gas Supply,Industry,Junior High,,,Japan,
+Construction,Industry,Junior High,,,Japan,
+Wholesale & Retail Trade,Industry,Junior High,1646.896551724138,2561.9568715803025,Japan,140.0
+Transportation & Storage,Industry,Junior High,,,Japan,
+Accommodation & Food Service,Industry,Junior High,1295.8620689655172,2015.878124664736,Japan,10.0
+"Publishing, Audio-Visual & Information Communication",Industry,Junior High,,,Japan,
+Finance & Insurance,Industry,Junior High,1749.655172413793,2721.810964488789,Japan,10.0
+Real Estate,Industry,Junior High,1491.0344827586207,2319.4936165647464,Japan,30.0
+"Professional, Scientific & Technical Services",Industry,Junior High,,,Japan,
+Education,Industry,Junior High,,,Japan,
+Health Care & Social Work,Industry,Junior High,,,Japan,
+"Arts, Entertainment & Recreation",Industry,Junior High,1602.0689655172414,2492.2218646068022,Japan,20.0
+Other Services,Industry,Junior High,,,Japan,
+Combined Services,Industry,Junior High,1195.8620689655172,1860.3154168007725,Japan,20.0
+All Employees,Total,Senior High,1362.0689655172414,2118.8713657332905,Japan,107730.0
+Male,Gender,Senior High,1382.7586206896551,2151.056753567214,Japan,70850.0
+Female,Gender,Senior High,1322.0689655172414,2056.646282587705,Japan,36880.0
+Mining & Quarrying,Industry,Senior High,1402.0689655172414,2181.096448878876,Japan,50.0
+Manufacturing,Industry,Senior High,1354.4827586206895,2107.070056860852,Japan,49650.0
+Electricity & Gas Supply,Industry,Senior High,1306.2068965517242,2031.9708185816971,Japan,410.0
+Construction,Industry,Senior High,1411.0344827586207,2195.043450273576,Japan,12190.0
+Wholesale & Retail Trade,Industry,Senior High,1333.7931034482758,2074.884669026929,Japan,11570.0
+Transportation & Storage,Industry,Senior High,1412.4137931034484,2197.1891427958376,Japan,6160.0
+Accommodation & Food Service,Industry,Senior High,1364.1379310344828,2122.089904516683,Japan,6470.0
+"Publishing, Audio-Visual & Information Communication",Industry,Senior High,1356.551724137931,2110.288595644244,Japan,560.0
+Finance & Insurance,Industry,Senior High,1268.9655172413793,1974.0371204806352,Japan,880.0
+Real Estate,Industry,Senior High,1364.8275862068965,2123.162750777813,Japan,560.0
+"Professional, Scientific & Technical Services",Industry,Senior High,1335.1724137931035,2077.0303615491903,Japan,4130.0
+Education,Industry,Senior High,1317.9310344827586,2050.2092050209208,Japan,830.0
+Health Care & Social Work,Industry,Senior High,1357.9310344827586,2112.4342881665057,Japan,6270.0
+"Arts, Entertainment & Recreation",Industry,Senior High,1357.9310344827586,2112.4342881665057,Japan,1860.0
+Other Services,Industry,Senior High,1377.9310344827586,2143.5468297392986,Japan,5320.0
+Combined Services,Industry,Senior High,1332.4137931034484,2072.738976504667,Japan,810.0
+All Employees,Total,Junior College,1544.1379310344828,2402.1027786718164,Japan,34320.0
+All Employees,Total,Junior College,1536.551724137931,2390.3014697993776,Japan,80940.0
+Male,Gender,Junior College,1593.103448275862,2478.274863212102,Japan,9710.0
+Male,Gender,Junior College,1512.413793103448,2352.7518506598003,Japan,29830.0
+Female,Gender,Junior College,1524.8275862068965,2372.0630833601545,Japan,24610.0
+Female,Gender,Junior College,1550.344827586207,2411.7583950219937,Japan,51110.0
+Mining & Quarrying,Industry,Junior College,1831.7241379310344,2849.479669563352,Japan,10.0
+Mining & Quarrying,Industry,Junior College,,,Japan,
+Manufacturing,Industry,Junior College,1512.413793103448,2352.7518506598003,Japan,3960.0
+Manufacturing,Industry,Junior College,1383.4482758620688,2152.1295998283445,Japan,4360.0
+Electricity & Gas Supply,Industry,Junior College,1486.896551724138,2313.056538997961,Japan,190.0
+Electricity & Gas Supply,Industry,Junior College,1469.655172413793,2286.2353824696925,Japan,30.0
+Construction,Industry,Junior College,1644.1379310344828,2557.66548653578,Japan,760.0
+Construction,Industry,Junior College,1483.4482758620688,2307.692307692308,Japan,1430.0
+Wholesale & Retail Trade,Industry,Junior College,1527.5862068965516,2376.354468404678,Japan,4330.0
+Wholesale & Retail Trade,Industry,Junior College,1447.5862068965516,2251.904302113507,Japan,8750.0
+Transportation & Storage,Industry,Junior College,1330.344827586207,2069.520437721275,Japan,550.0
+Transportation & Storage,Industry,Junior College,1567.5862068965516,2438.579551550263,Japan,1410.0
+Accommodation & Food Service,Industry,Junior College,1521.3793103448277,2366.6988520545005,Japan,1700.0
+Accommodation & Food Service,Industry,Junior College,1503.4482758620688,2338.8048492651,Japan,7050.0
+"Publishing, Audio-Visual & Information Communication",Industry,Junior College,1597.9310344827586,2485.7847870400174,Japan,1620.0
+"Publishing, Audio-Visual & Information Communication",Industry,Junior College,1493.103448275862,2322.712155348139,Japan,6600.0
+Finance & Insurance,Industry,Junior College,1540.6896551724135,2396.7385473661625,Japan,670.0
+Finance & Insurance,Industry,Junior College,1421.3793103448277,2211.136144190538,Japan,110.0
+Real Estate,Industry,Junior College,1472.413793103448,2290.526767514215,Japan,310.0
+Real Estate,Industry,Junior College,1574.4827586206895,2449.3080141615706,Japan,750.0
+"Professional, Scientific & Technical Services",Industry,Junior College,1468.2758620689656,2284.0896899474305,Japan,1180.0
+"Professional, Scientific & Technical Services",Industry,Junior College,1560.0,2426.7782426778244,Japan,2690.0
+Education,Industry,Junior College,1485.5172413793102,2310.9108464757,Japan,4490.0
+Education,Industry,Junior College,1617.9310344827586,2516.89732861281,Japan,2830.0
+Health Care & Social Work,Industry,Junior College,1599.3103448275865,2487.930479562279,Japan,11600.0
+Health Care & Social Work,Industry,Junior College,1621.3793103448277,2522.261559918464,Japan,34240.0
+"Arts, Entertainment & Recreation",Industry,Junior College,1510.344827586207,2349.5333118764083,Japan,410.0
+"Arts, Entertainment & Recreation",Industry,Junior College,1431.7241379310344,2227.2288381074995,Japan,5630.0
+Other Services,Industry,Junior College,1533.7931034482758,2386.0100847548547,Japan,2370.0
+Other Services,Industry,Junior College,1416.551724137931,2203.626220362622,Japan,5010.0
+Combined Services,Industry,Junior College,1343.4482758620688,2089.904516682759,Japan,170.0
+Combined Services,Industry,Junior College,1332.4137931034484,2072.738976504667,Japan,60.0
+All Employees,Total,University,1712.413793103448,2663.877266387726,Japan,292210.0
+Male,Gender,University,1733.103448275862,2696.06265422165,Japan,154010.0
+Female,Gender,University,1688.9655172413793,2627.4004935092803,Japan,138200.0
+Mining & Quarrying,Industry,University,2226.8965517241377,3464.220577191288,Japan,40.0
+Manufacturing,Industry,University,1694.4827586206895,2635.983263598326,Japan,27510.0
+Electricity & Gas Supply,Industry,University,1660.0,2582.340950541788,Japan,890.0
+Construction,Industry,University,1683.4482758620688,2618.817723420234,Japan,16300.0
+Wholesale & Retail Trade,Industry,University,1708.2758620689656,2657.4401888209422,Japan,57350.0
+Transportation & Storage,Industry,University,1613.7931034482758,2510.4602510460254,Japan,9590.0
+Accommodation & Food Service,Industry,University,1637.2413793103449,2546.937023924472,Japan,8730.0
+"Publishing, Audio-Visual & Information Communication",Industry,University,1699.3103448275865,2643.493187426242,Japan,37490.0
+Finance & Insurance,Industry,University,1700.6896551724135,2645.6388799485035,Japan,20740.0
+Real Estate,Industry,University,1800.689655172414,2801.201587812467,Japan,11060.0
+"Professional, Scientific & Technical Services",Industry,University,1787.5862068965516,2780.817508850982,Japan,17340.0
+Education,Industry,University,1635.8620689655172,2544.7913314022103,Japan,12090.0
+Health Care & Social Work,Industry,University,1804.8275862068965,2807.6386653792515,Japan,51920.0
+"Arts, Entertainment & Recreation",Industry,University,1641.3793103448277,2553.3741014912566,Japan,4670.0
+Other Services,Industry,University,1577.9310344827586,2454.672245467225,Japan,14760.0
+Combined Services,Industry,University,1513.103448275862,2353.8246969209317,Japan,1720.0
+All Employees,Total,Graduate School,1982.0689655172412,3083.360154489862,Japan,31170.0
+Male,Gender,Graduate School,2001.3793103448277,3113.3998498015235,Japan,23970.0
+Female,Gender,Graduate School,1917.9310344827584,2983.5854522047,Japan,7200.0
+Mining & Quarrying,Industry,Graduate School,2297.2413793103447,3573.650895826628,Japan,40.0
+Manufacturing,Industry,Graduate School,1967.586206896552,3060.8303830061154,Japan,13010.0
+Electricity & Gas Supply,Industry,Graduate School,1833.103448275862,2851.625362085613,Japan,430.0
+Construction,Industry,Graduate School,2048.2758620689656,3186.3533955584167,Japan,1080.0
+Wholesale & Retail Trade,Industry,Graduate School,1982.7586206896551,3084.4330007509925,Japan,1760.0
+Transportation & Storage,Industry,Graduate School,1815.8620689655168,2824.804205557344,Japan,350.0
+Accommodation & Food Service,Industry,Graduate School,1728.9655172413793,2689.6255766548657,Japan,140.0
+"Publishing, Audio-Visual & Information Communication",Industry,Graduate School,2124.137931034483,3304.3664842828025,Japan,3830.0
+Finance & Insurance,Industry,Graduate School,2289.655172413793,3561.84958695419,Japan,780.0
+Real Estate,Industry,Graduate School,2176.551724137931,3385.902800128742,Japan,770.0
+"Professional, Scientific & Technical Services",Industry,Graduate School,1929.655172413793,3001.8238386439225,Japan,6140.0
+Education,Industry,Graduate School,2184.137931034483,3397.7041090011803,Japan,1040.0
+Health Care & Social Work,Industry,Graduate School,1644.1379310344828,2557.66548653578,Japan,500.0
+"Arts, Entertainment & Recreation",Industry,Graduate School,1700.6896551724135,2645.6388799485035,Japan,220.0
+Other Services,Industry,Graduate School,1664.8275862068965,2589.850874369703,Japan,1030.0
+Combined Services,Industry,Graduate School,2033.103448275862,3162.75077781354,Japan,40.0
